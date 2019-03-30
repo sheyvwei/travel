@@ -1,2 +1,4 @@
 test for connnect the github
 只关联一个github仓库
+git remote show显示: 显示所有关联的远程仓库
+git remote rm  remoteName  移除
