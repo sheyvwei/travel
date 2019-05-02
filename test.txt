@@ -1,19 +1,20 @@
-test for connnect the github
-Ö»¹ØÁªÒ»¸ögithub²Ö¿â
+ï»¿test for connnect the github
+åªå…³è”ä¸€ä¸ªgithubä»“åº“
 git status
 git add .
 git commit -m"test"
-git remote showÏÔÊ¾: ÏÔÊ¾ËùÓĞ¹ØÁªµÄÔ¶³Ì²Ö¿â
-git remote rm  remoteName  ÒÆ³ı
-·ÖÖ§²âÊÔ
-Ô¶³Ì´´½¨·ÖÖ§dev
-±¾µØÍ¬²½·ÖÖ§git pull
-±¾µØÇĞ»»·ÖÖ§git checkout dev
-Ìá½»´úÂëµ½dev
+git remote showæ˜¾ç¤º: æ˜¾ç¤ºæ‰€æœ‰å…³è”çš„è¿œç¨‹ä»“åº“
+git remote rm  remoteName  ç§»é™¤
+åˆ†æ”¯æµ‹è¯•
+è¿œç¨‹åˆ›å»ºåˆ†æ”¯dev
+æœ¬åœ°åŒæ­¥åˆ†æ”¯git pull
+æœ¬åœ°åˆ‡æ¢åˆ†æ”¯git checkout dev
+æäº¤ä»£ç åˆ°dev
 git add .
 git commit -m 
 git push
-ºÏ²¢devµ½master
-1ÏÈÇĞ»»µ½master: git checkout master
-2.ºÏ²¢µ½master git merge 
-3.°ÑmasterµÄÄÚÈİÒ²Ìá½»µ½Ô¶³Ì²Ö¿â git push
+åˆå¹¶devåˆ°master
+1å…ˆåˆ‡æ¢åˆ°master: git checkout master
+2.åˆå¹¶åˆ°master git merge dev
+3.æŠŠmasterçš„å†…å®¹ä¹Ÿæäº¤åˆ°è¿œç¨‹ä»“åº“ git push
+4.åˆ é™¤devåˆ†æ”¯ git branch -d dev
