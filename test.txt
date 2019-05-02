@@ -5,3 +5,4 @@ git add .
 git commit -m"test"
 git remote show显示: 显示所有关联的远程仓库
 git remote rm  remoteName  移除
+现在是dev
