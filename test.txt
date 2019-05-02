@@ -5,6 +5,15 @@ git add .
 git commit -m"test"
 git remote show显示: 显示所有关联的远程仓库
 git remote rm  remoteName  移除
-dev dev dev
-
-直接git push origin dev
+分支测试
+远程创建分支dev
+本地同步分支git pull
+本地切换分支git checkout dev
+提交代码到dev
+git add .
+git commit -m 
+git push
+合并dev到master
+1先切换到master: git checkout master
+2.合并到master git merge 
+3.把master的内容也提交到远程仓库 git push
